@@ -1,3 +1,4 @@
+![logo](https://github.com/duabatool020/duabatool020/blob/main/Banner2.jpg)
 <h1 align="center">Hi 👋, I'm Dua Batool</h1>
 <h3 align="center">| Artificial Intelligence | Developer | Computer Science student @ BUIC</h3>
 
